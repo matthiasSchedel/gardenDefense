@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: d6f880a5191d4499e92d45c677f07331
+timeCreated: 1482854442
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monstro-fada_0
+    21300002: monstro-fada_1
+    21300004: monstro-fada_2
+    21300006: monstro-fada_3
+    21300008: monstro-fada_4
+    21300010: monstro-fada_5
+    21300012: monstro-fada_6
+    21300014: monstro-fada_7
+    21300016: monstro-fada_8
+    21300018: monstro-fada_9
+    21300020: monstro-fada_10
+    21300022: monstro-fada_11
+    21300024: monstro-fada_12
+    21300026: monstro-fada_13
+    21300028: monstro-fada_14
+    21300030: monstro-fada_15
+    21300032: monstro-fada_16
+    21300034: monstro-fada_17
+    21300036: monstro-fada_18
+    21300038: monstro-fada_19
+    21300040: monstro-fada_20
+    21300042: monstro-fada_21
+    21300044: monstro-fada_22
+    21300046: monstro-fada_23
+    21300048: monstro-fada_24
+    21300050: monstro-fada_25
+    21300052: monstro-fada_26
+    21300054: monstro-fada_27
+    21300056: monstro-fada_28
+    21300058: monstro-fada_29
+    21300060: monstro-fada_30
+    21300062: monstro-fada_31
+    21300064: monstro-fada_32
+    21300066: monstro-fada_33
+    21300068: monstro-fada_34
+    21300070: monstro-fada_35
+    21300072: monstro-fada_36
+    21300074: monstro-fada_37
+    21300076: monstro-fada_38
+    21300078: monstro-fada_39
+    21300080: monstro-fada_40
+    21300082: monstro-fada_41
+    21300084: monstro-fada_42
+    21300086: monstro-fada_43
+    21300088: monstro-fada_44
+    21300090: monstro-fada_45
+    21300092: monstro-fada_46
+    21300094: monstro-fada_47
+    21300096: monstro-fada_48
+    21300098: monstro-fada_49
+    21300100: monstro-fada_50
+    21300102: monstro-fada_51
+    21300104: monstro-fada_52
+    21300106: monstro-fada_53
+    21300108: monstro-fada_54
+    21300110: monstro-fada_55
+    21300112: monstro-fada_56
+    21300114: monstro-fada_57
+    21300116: monstro-fada_58
+    21300118: monstro-fada_59
+    21300120: monstro-fada_60
+    21300122: monstro-fada_61
+    21300124: monstro-fada_62
+    21300126: monstro-fada_63
+    21300128: monstro-fada_64
+    21300130: monstro-fada_65
+    21300132: monstro-fada_66
+    21300134: monstro-fada_67
+    21300136: monstro-fada_68
+    21300138: monstro-fada_69
+    21300140: monstro-fada_70
+    21300142: monstro-fada_71
+    21300144: monstro-fada_72
+    21300146: monstro-fada_73
+    21300148: monstro-fada_74
+    21300150: monstro-fada_75
+    21300152: monstro-fada_76
+    21300154: monstro-fada_77
+    21300156: monstro-fada_78
+    21300158: monstro-fada_79
+    21300160: monstro-fada_80
+    21300162: monstro-fada_81
+    21300164: monstro-fada_82
+    21300166: monstro-fada_83
+    21300168: monstro-fada_84
+    21300170: monstro-fada_85
+    21300172: monstro-fada_86
+    21300174: monstro-fada_87
+    21300176: monstro-fada_88
+    21300178: monstro-fada_89
+    21300180: monstro-fada_90
+    21300182: monstro-fada_91
+    21300184: monstro-fada_92
+    21300186: monstro-fada_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro-fada_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 290
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 290
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 290
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 290
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 290
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 290
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 290
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 290
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 232
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 232
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 232
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 232
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 232
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 232
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 232
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 232
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 174
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 174
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 174
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 174
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 174
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 174
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 174
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 174
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 116
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 116
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 116
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 116
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_32
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 116
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 116
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 116
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 116
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 58
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 58
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 58
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 58
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 58
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_42
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 58
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 58
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 58
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_47
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_50
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro-fada_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

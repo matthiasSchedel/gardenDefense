@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 57bad25b65ba14a849e2faae24af46dc
+timeCreated: 1483127828
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_jabba2__x1_walk_left_png_1354831662_0
+    21300002: npc_jabba2__x1_walk_left_png_1354831662_1
+    21300004: npc_jabba2__x1_walk_left_png_1354831662_2
+    21300006: npc_jabba2__x1_walk_left_png_1354831662_3
+    21300008: npc_jabba2__x1_walk_left_png_1354831662_4
+    21300010: npc_jabba2__x1_walk_left_png_1354831662_5
+    21300012: npc_jabba2__x1_walk_left_png_1354831662_6
+    21300014: npc_jabba2__x1_walk_left_png_1354831662_7
+    21300016: npc_jabba2__x1_walk_left_png_1354831662_8
+    21300018: npc_jabba2__x1_walk_left_png_1354831662_9
+    21300020: npc_jabba2__x1_walk_left_png_1354831662_10
+    21300022: npc_jabba2__x1_walk_left_png_1354831662_11
+    21300024: npc_jabba2__x1_walk_left_png_1354831662_12
+    21300026: npc_jabba2__x1_walk_left_png_1354831662_13
+    21300028: npc_jabba2__x1_walk_left_png_1354831662_14
+    21300030: npc_jabba2__x1_walk_left_png_1354831662_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1360
+        width: 316
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_1
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1360
+        width: 315
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1166
+        width: 315
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1166
+        width: 314
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 972
+        width: 312
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 972
+        width: 313
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 778
+        width: 313
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 778
+        width: 311
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 584
+        width: 305
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 584
+        width: 305
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 390
+        width: 306
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_11
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 390
+        width: 306
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 196
+        width: 307
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_13
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 196
+        width: 308
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 313
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_walk_left_png_1354831662_15
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2
+        width: 314
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

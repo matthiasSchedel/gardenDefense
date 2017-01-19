@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: cb8b860a013044ac78d14846ab655601
+timeCreated: 1483127810
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_jabba2__x1_talk_png_1354831682_0
+    21300002: npc_jabba2__x1_talk_png_1354831682_1
+    21300004: npc_jabba2__x1_talk_png_1354831682_2
+    21300006: npc_jabba2__x1_talk_png_1354831682_3
+    21300008: npc_jabba2__x1_talk_png_1354831682_4
+    21300010: npc_jabba2__x1_talk_png_1354831682_5
+    21300012: npc_jabba2__x1_talk_png_1354831682_6
+    21300014: npc_jabba2__x1_talk_png_1354831682_7
+    21300016: npc_jabba2__x1_talk_png_1354831682_8
+    21300018: npc_jabba2__x1_talk_png_1354831682_9
+    21300020: npc_jabba2__x1_talk_png_1354831682_10
+    21300022: npc_jabba2__x1_talk_png_1354831682_11
+    21300024: npc_jabba2__x1_talk_png_1354831682_12
+    21300026: npc_jabba2__x1_talk_png_1354831682_13
+    21300028: npc_jabba2__x1_talk_png_1354831682_14
+    21300030: npc_jabba2__x1_talk_png_1354831682_15
+    21300032: npc_jabba2__x1_talk_png_1354831682_16
+    21300034: npc_jabba2__x1_talk_png_1354831682_17
+    21300036: npc_jabba2__x1_talk_png_1354831682_18
+    21300038: npc_jabba2__x1_talk_png_1354831682_19
+    21300040: npc_jabba2__x1_talk_png_1354831682_20
+    21300042: npc_jabba2__x1_talk_png_1354831682_21
+    21300044: npc_jabba2__x1_talk_png_1354831682_22
+    21300046: npc_jabba2__x1_talk_png_1354831682_23
+    21300048: npc_jabba2__x1_talk_png_1354831682_24
+    21300050: npc_jabba2__x1_talk_png_1354831682_25
+    21300052: npc_jabba2__x1_talk_png_1354831682_26
+    21300054: npc_jabba2__x1_talk_png_1354831682_27
+    21300056: npc_jabba2__x1_talk_png_1354831682_28
+    21300058: npc_jabba2__x1_talk_png_1354831682_29
+    21300060: npc_jabba2__x1_talk_png_1354831682_30
+    21300062: npc_jabba2__x1_talk_png_1354831682_31
+    21300064: npc_jabba2__x1_talk_png_1354831682_32
+    21300066: npc_jabba2__x1_talk_png_1354831682_33
+    21300068: npc_jabba2__x1_talk_png_1354831682_34
+    21300070: npc_jabba2__x1_talk_png_1354831682_35
+    21300072: npc_jabba2__x1_talk_png_1354831682_36
+    21300074: npc_jabba2__x1_talk_png_1354831682_37
+    21300076: npc_jabba2__x1_talk_png_1354831682_38
+    21300078: npc_jabba2__x1_talk_png_1354831682_39
+    21300080: npc_jabba2__x1_talk_png_1354831682_40
+    21300082: npc_jabba2__x1_talk_png_1354831682_41
+    21300084: npc_jabba2__x1_talk_png_1354831682_42
+    21300086: npc_jabba2__x1_talk_png_1354831682_43
+    21300088: npc_jabba2__x1_talk_png_1354831682_44
+    21300090: npc_jabba2__x1_talk_png_1354831682_45
+    21300092: npc_jabba2__x1_talk_png_1354831682_46
+    21300094: npc_jabba2__x1_talk_png_1354831682_47
+    21300096: npc_jabba2__x1_talk_png_1354831682_48
+    21300098: npc_jabba2__x1_talk_png_1354831682_49
+    21300100: npc_jabba2__x1_talk_png_1354831682_50
+    21300102: npc_jabba2__x1_talk_png_1354831682_51
+    21300104: npc_jabba2__x1_talk_png_1354831682_52
+    21300106: npc_jabba2__x1_talk_png_1354831682_53
+    21300108: npc_jabba2__x1_talk_png_1354831682_54
+    21300110: npc_jabba2__x1_talk_png_1354831682_55
+    21300112: npc_jabba2__x1_talk_png_1354831682_56
+    21300114: npc_jabba2__x1_talk_png_1354831682_57
+    21300116: npc_jabba2__x1_talk_png_1354831682_58
+    21300118: npc_jabba2__x1_talk_png_1354831682_59
+    21300120: npc_jabba2__x1_talk_png_1354831682_60
+    21300122: npc_jabba2__x1_talk_png_1354831682_61
+    21300124: npc_jabba2__x1_talk_png_1354831682_62
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1358
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1358
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_2
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1358
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_3
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1358
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_4
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1358
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_5
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1358
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_6
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1358
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_7
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1163
+        width: 195
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_8
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1163
+        width: 196
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 970
+        width: 195
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 970
+        width: 195
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_11
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 970
+        width: 194
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_12
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 970
+        width: 195
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_13
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 970
+        width: 194
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_14
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 970
+        width: 194
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_15
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 970
+        width: 191
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_16
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 970
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_17
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 970
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 775
+        width: 198
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 775
+        width: 197
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_20
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 775
+        width: 198
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_21
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 775
+        width: 199
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_22
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 775
+        width: 198
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_23
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 775
+        width: 200
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_24
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 775
+        width: 198
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_25
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 775
+        width: 198
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_26
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 775
+        width: 198
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 582
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_28
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 581
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_29
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 582
+        width: 193
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_30
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 582
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_31
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 582
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_32
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 582
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_33
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 582
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_34
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 582
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_35
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 582
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 388
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 388
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_38
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 388
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_39
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 388
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_40
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 388
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_41
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 388
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_42
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 388
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_43
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 388
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_44
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 388
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_45
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 194
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 194
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_47
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 194
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_48
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 194
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_49
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 194
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_50
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 194
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_51
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 194
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_52
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 194
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_53
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 194
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_56
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_57
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 0
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_58
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 0
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_59
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 0
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_60
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_61
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 0
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_jabba2__x1_talk_png_1354831682_62
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 0
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
